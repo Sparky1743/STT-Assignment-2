@@ -1,0 +1,17 @@
+Parallel Test Execution Results
+Running: pytest -n 1 --parallel-threads=1 --dist=load
+Average Execution Time for (1, 1, load): 3.420 seconds
+Running: pytest -n 1 --parallel-threads=1 --dist=no
+Average Execution Time for (1, 1, no): 3.433 seconds
+Running: pytest -n 1 --parallel-threads=auto --dist=load
+Average Execution Time for (1, auto, load): 61.360 seconds
+Running: pytest -n 1 --parallel-threads=auto --dist=no
+Average Execution Time for (1, auto, no): 60.916 seconds
+Running: pytest -n auto --parallel-threads=1 --dist=load
+Average Execution Time for (auto, 1, load): 3.543 seconds
+Running: pytest -n auto --parallel-threads=1 --dist=no
+Average Execution Time for (auto, 1, no): 3.656 seconds
+Running: pytest -n auto --parallel-threads=auto --dist=load
+Average Execution Time for (auto, auto, load): 37.093 seconds
+Running: pytest -n auto --parallel-threads=auto --dist=no
+Average Execution Time for (auto, auto, no): 37.036 seconds

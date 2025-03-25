@@ -1,0 +1,410 @@
+===== Run 1 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.17s ==============================
+
+
+===== Run 2 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.20s ==============================
+
+
+===== Run 3 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.14s ==============================
+
+
+===== Run 4 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.19s ==============================
+
+
+===== Run 5 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.18s ==============================
+
+
+===== Run 6 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.19s ==============================
+
+
+===== Run 7 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.17s ==============================
+
+
+===== Run 8 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.16s ==============================
+
+
+===== Run 9 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.17s ==============================
+
+
+===== Run 10 =====
+============================= test session starts ==============================
+platform linux -- Python 3.10.16, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/birud_ubuntu/STT-Labs/Assignment-2/Lab6/algorithms
+plugins: xdist-3.6.1, run-parallel-0.3.1
+collected 416 items
+
+tests/test_array.py .............................                        [  6%]
+tests/test_automata.py .                                                 [  7%]
+tests/test_backtrack.py .........................                        [ 13%]
+tests/test_bfs.py ...                                                    [ 13%]
+tests/test_bit.py .............................                          [ 20%]
+tests/test_compression.py .....                                          [ 22%]
+tests/test_dfs.py ........                                               [ 24%]
+tests/test_dp.py ...............................                         [ 31%]
+tests/test_graph.py ....................                                 [ 36%]
+tests/test_greedy.py .                                                   [ 36%]
+tests/test_heap.py .....                                                 [ 37%]
+tests/test_histogram.py .                                                [ 37%]
+tests/test_iterative_segment_tree.py .........                           [ 40%]
+tests/test_linkedlist.py ............                                    [ 43%]
+tests/test_map.py .........................                              [ 49%]
+tests/test_maths.py ..................................................   [ 61%]
+tests/test_matrix.py .............                                       [ 64%]
+tests/test_ml.py ..                                                      [ 64%]
+tests/test_monomial.py ........                                          [ 66%]
+tests/test_polynomial.py .......                                         [ 68%]
+tests/test_queues.py .....                                               [ 69%]
+tests/test_search.py .............                                       [ 72%]
+tests/test_set.py .                                                      [ 72%]
+tests/test_sort.py ....................                                  [ 77%]
+tests/test_stack.py ..........                                           [ 80%]
+tests/test_streaming.py ....                                             [ 81%]
+tests/test_strings.py .................................................. [ 93%]
+..............                                                           [ 96%]
+tests/test_tree.py ...........                                           [ 99%]
+tests/test_unix.py ....                                                  [100%]
+
+============================= 416 passed in 3.18s ==============================
+
+
